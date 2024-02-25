@@ -3,10 +3,10 @@
 Hey everyone!
 
 I am on the journey of learning frontend and designs and I make short pages and designs from websites or mockuops for practice.
-So I will upload the works that I used for practice and learning in this repository.
-You can download and practice yourself if you want or if you just wanna see how it looks like, go ahead and explore.
+I like to share the works that I used for learning and practice.
+You can make use of it, go ahead and explore.
 
-Every project in the repo  will have 
+This project has  
 
    • Source code
    • Images used
